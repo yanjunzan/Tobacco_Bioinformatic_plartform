@@ -1,0 +1,21 @@
+working_dir:
+    /home/yanjun/proext4/tobacco/tobacco/RNA_seq/
+result_dir:
+    /home/yanjun/proext4/tobacco/tobacco/RNA_seq/
+result_dir2:
+    /home/yanjun/proext4/tobacco/tobacco/RNA_seq/
+gff:
+    /home/yanjun/proext4/tobacco/tobacco/RNA_seq/ZY300.gff3
+ref:
+    ZY300
+refdir:
+    /home/yanjun/prontfs/project/tobacco/data/genome/ZY300/
+fastp:
+    qualified_quality_phred: "15"
+picard:
+    /home/yanjun/Documents/soft/picard.jar
+bwamem2:
+    /home/yanjun/Documents/soft/bwa-mem2-2.0pre2_x64-linux/bwa-mem2
+threads:
+    5
+    

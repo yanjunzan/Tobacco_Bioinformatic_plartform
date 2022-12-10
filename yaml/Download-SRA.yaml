@@ -1,0 +1,12 @@
+wd:
+    /home/yanjun/prontfs/project/tobacco/data/parental/
+rd:
+    /home/yanjun/proext4/tobacco/results/
+threads:
+    10
+ref:
+    ZY300
+refdir:
+    /home/yanjun/prontfs/project/tobacco/data/genome/ZY300/
+fastp:
+    qualified_quality_phred: "15"
