@@ -1,4 +1,4 @@
-# The bioinformatic pipline for tobacco genetic and genomic research
+# Snakemake bioinformatic piplines for tobacco genetic and genomic research
 Zan Lab (Yanjun Zan) - Tobacco Research Institute - Chinese Academy of Agricultural Sciences
 ## Bioinformatic plartform
 This is repository hosting ongoing developmennt of the internal bioinnformatic plartform for Tobacco Research Institute - Chinese Academy of Agricultural Sciences
